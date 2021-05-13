@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on MERN
-- 🌱 I’m currently learning Android with Java (for college project lol) & MERN too ;_;
+- 🌱 I’m currently learning Android with Java & endless MERN too 
 - 👯 I’m looking to collaborate on Open Source
 - 🤔 I’m looking for help with Internship
 - 💬 Ask me about Web Devlopment and DSA
